@@ -6,10 +6,10 @@ Font     | x height | Cap height |
 
 # Castoro
 
-Font     | x height | Cap height | Small cap height |
----------|----------|------------|------------------|
-Regular  | 475      | 699        | 548              |
-Titling  | 455?     | 699        |                  |
+Font     | x height | Cap height | Small cap height | Lining numerals height |
+---------|----------|------------|------------------|------------------------|
+Regular  | 475      | 699        | 548              | 699                    |
+Titling  | 455?     | 699        |                  | 699?                   |
 
 # SBL
 
