@@ -1,8 +1,8 @@
 # STIX Two
 
-Font     | x height | Cap height |
----------|----------|------------|
-(All)    | 473      | 657        |
+Font     | x height | Ascender | Cap height | Descender |
+---------|----------|----------|------------|-----------|
+(All)    | 473      | 762      | 657        | -238      |
 
 # Castoro
 
